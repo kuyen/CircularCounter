@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\wGithub\KuyenCircularCounter\circularcounter\src\main\res"><file path="D:\wGithub\KuyenCircularCounter\circularcounter\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="CircularMeter">
+        <attr format="color" name="textColor"/>
+        <attr format="dimension" name="textSize"/>
+        <attr format="string" name="typeface"/>
+        <attr format="dimension" name="metricSize"/>
+        <attr format="string" name="metricText"/>
+        <attr format="integer" name="range"/>
+    </declare-styleable></file><file path="D:\wGithub\KuyenCircularCounter\circularcounter\src\main\res\values\dimens.xml" qualifiers=""><dimen name="width">10dp</dimen><dimen name="textSize">70dp</dimen><dimen name="metricPaddingY">25dp</dimen><dimen name="metricSize">14dp</dimen></file></source><source path="D:\wGithub\KuyenCircularCounter\circularcounter\build\generated\res\rs\release"/><source path="D:\wGithub\KuyenCircularCounter\circularcounter\build\generated\res\generated\release"/></dataSet><dataSet config="release"><source path="D:\wGithub\KuyenCircularCounter\circularcounter\src\release\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="CircularMeter"><attr format="color" name="textColor"/><attr format="dimension" name="textSize"/><attr format="string" name="typeface"/><attr format="dimension" name="metricSize"/><attr format="string" name="metricText"/><attr format="integer" name="range"/></declare-styleable></configuration></mergedItems></merger>
